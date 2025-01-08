@@ -34,7 +34,8 @@
 
 
 상품별판매액
-![image](https://github.com/user-attachments/assets/1ca977f0-81dd-41d6-a16c-0c8c972dd0f1)
+![image](https://github.com/user-attachments/assets/04e1896c-c4fc-4f97-8469-7da40a522db6)
+
 
 
 
